@@ -1,6 +1,6 @@
 from random import randint
 
-value = randint(0,10)
+value = randint(0, 10)
 guess_count = 0
 guess_limit = 3
 
